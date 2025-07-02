@@ -2,7 +2,6 @@
 <html lang="zh-Hant-TW">
 <head>
 <meta charset="UTF-8">
-<title>宜蘭 三天兩夜</title>
 </head>
 <body>
 <h2>宜蘭 三天兩夜</h2>
